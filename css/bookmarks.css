@@ -252,6 +252,7 @@ li:hover > .tags_actions > em { display : none; }
 }
 #tag_filter .tagit {
     margin: 0.3em;
+    display: inherit;
 }
 #tag_filter ul.tagit > li.tagit-new {
     padding:0;
